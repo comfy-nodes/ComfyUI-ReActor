@@ -1345,20 +1345,20 @@ NODE_CLASS_MAPPINGS = {
 
 NODE_DISPLAY_NAME_MAPPINGS = {
     # --- MAIN NODES ---
-    "ReActorFaceSwap": "ReActor 🌌 Fast Face Swap",
-    "ReActorFaceSwapOpt": "ReActor 🌌 Fast Face Swap [OPTIONS]",
-    "ReActorOptions": "ReActor 🌌 Options",
-    "ReActorFaceBoost": "ReActor 🌌 Face Booster",
-    "ReActorMaskHelper": "ReActor 🌌 Masking Helper",
-    "ReActorSetWeight": "ReActor 🌌 Set Face Swap Weight",
+    "ReActorFaceSwap": "🌌 Fast Face Swap",
+    "ReActorFaceSwapOpt": "🌌 Fast Face Swap Options",
+    "ReActorOptions": "🌌 Options",
+    "ReActorFaceBoost": "🌌 Face Booster",
+    "ReActorMaskHelper": "🌌 Masking Helper",
+    "ReActorSetWeight": "🌌 Set Face Swap Weight",
     # --- Operations with Face Models ---
-    "ReActorSaveFaceModel": "Save Face Model 🌌 ReActor",
-    "ReActorLoadFaceModel": "Load Face Model 🌌 ReActor",
-    "ReActorBuildFaceModel": "Build Blended Face Model 🌌 ReActor",
-    "ReActorMakeFaceModelBatch": "Make Face Model Batch 🌌 ReActor",
+    "ReActorSaveFaceModel": "🌌 Save Face Model",
+    "ReActorLoadFaceModel": "🌌 Load Face Model",
+    "ReActorBuildFaceModel": "🌌 Build Blended Face Model",
+    "ReActorMakeFaceModelBatch": "🌌 Make Face Model Batch",
     # --- Additional Nodes ---
-    "ReActorRestoreFace": "Restore Face 🌌 ReActor",
-    "ReActorImageDublicator": "Image Dublicator (List) 🌌 ReActor",
-    "ImageRGBA2RGB": "Convert RGBA to RGB 🌌 ReActor",
-    "ReActorUnload": "Unload ReActor Models 🌌 ReActor",
+    "ReActorRestoreFace": "🌌 Restore Face",
+    "ReActorImageDublicator": "🌌 Image Dublicator (List)",
+    "ImageRGBA2RGB": "🌌 Convert RGBA to RGB",
+    "ReActorUnload": "🌌 Unload Models",
 }
